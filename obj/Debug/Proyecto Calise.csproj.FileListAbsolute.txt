@@ -1,0 +1,18 @@
+C:\Programación II\Laburo\Proyecto Calise\Proyecto Calise\bin\Debug\Proyecto Calise.exe.config
+C:\Programación II\Laburo\Proyecto Calise\Proyecto Calise\bin\Debug\Proyecto Calise.exe
+C:\Programación II\Laburo\Proyecto Calise\Proyecto Calise\bin\Debug\Proyecto Calise.pdb
+C:\Programación II\Laburo\Proyecto Calise\Proyecto Calise\obj\Debug\Proyecto Calise.csproj.AssemblyReference.cache
+C:\Programación II\Laburo\Proyecto Calise\Proyecto Calise\obj\Debug\Proyecto_Calise.Screen_Principal.resources
+C:\Programación II\Laburo\Proyecto Calise\Proyecto Calise\obj\Debug\Proyecto_Calise.Properties.Resources.resources
+C:\Programación II\Laburo\Proyecto Calise\Proyecto Calise\obj\Debug\Proyecto Calise.csproj.GenerateResource.cache
+C:\Programación II\Laburo\Proyecto Calise\Proyecto Calise\obj\Debug\Proyecto Calise.csproj.CoreCompileInputs.cache
+C:\Programación II\Laburo\Proyecto Calise\Proyecto Calise\obj\Debug\Proyecto Calise.exe
+C:\Programación II\Laburo\Proyecto Calise\Proyecto Calise\obj\Debug\Proyecto Calise.pdb
+C:\Programación II\Laburo\Proyecto Calise\Proyecto Calise\obj\Debug\Proyecto Calise.exe.config
+C:\Programación II\Laburo\Proyecto Calise\Proyecto Calise\bin\Debug\FontAwesome.Sharp.dll
+C:\Programación II\Laburo\Proyecto Calise\Proyecto Calise\obj\Debug\Proyecto.C5D6A35A.Up2Date
+C:\Programación II\Laburo\Proyecto Calise\Proyecto Calise\obj\Debug\Proyecto_Calise.PantallaStock.resources
+C:\Programación II\Laburo\Proyecto Calise\Proyecto Calise\obj\Debug\Proyecto_Calise.PantallaInventario.resources
+C:\Programación II\Laburo\Proyecto Calise\Proyecto Calise\obj\Debug\Proyecto_Calise.PantallaCategoria.resources
+C:\Programación II\Laburo\Proyecto Calise\Proyecto Calise\obj\Debug\Proyecto_Calise.PantallaSubCategoria.resources
+C:\Programación II\Laburo\Proyecto Calise\Proyecto Calise\obj\Debug\Proyecto_Calise.PantallaProveedores.resources
